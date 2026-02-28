@@ -30,3 +30,7 @@ copy paste the commands in the order that is listed
 13: ~/xow64 install
 
 14: termux-x11 :0 -xstartup "dbus-launch --exit-with-session xfce4-session"
+
+click this link to get back to the hub
+
+https://github.com/Warlord19winter/The-Hub-For-Termux-Native-Desktop-Evironment
