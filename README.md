@@ -23,7 +23,7 @@ copy paste the commands in the order that is listed
 
 10: pkg install dosbox luanti
 
-11: pkg install mesa-zink virglrenderer-mesa-zink vulkan-loader-android virglrenderer-android   
+11: pkg install mesa-zink virglrenderer-mesa-zink virglrenderer-android   
 
 12: cd $HOME && rm -rf ~/xow64 && wget https://github.com/ar37-rs/xow64-wine/raw/refs/heads/main/xow64 && chmod +x ~/xow64
 
